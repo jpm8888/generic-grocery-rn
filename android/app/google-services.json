@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "693145415581",
+    "firebase_url": "https://greentrac-38165.firebaseio.com",
+    "project_id": "greentrac-38165",
+    "storage_bucket": "greentrac-38165.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693145415581:android:3c2d91ab4d2490c9a64974",
+        "android_client_info": {
+          "package_name": "com.greentracrn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693145415581-onv5nboif5lupbqecnuf0hcm11uaoh11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBlBb6eX0qoUD8oatuuHzssiHA52zQXJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693145415581-onv5nboif5lupbqecnuf0hcm11uaoh11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
