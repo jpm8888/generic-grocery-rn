@@ -1,4 +1,4 @@
-package com.greentracrn;
+package jpm.grocery;
 
 import androidx.multidex.MultiDex;
 import androidx.multidex.MultiDexApplication;

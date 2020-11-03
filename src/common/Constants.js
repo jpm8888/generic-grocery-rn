@@ -1,8 +1,8 @@
 const DEBUG = true;
 const SHOW_ADS = false;
 
-const DATABASE_NAME = "greentrac.db";
-const RN_CODEBASE_VERSION = '1.0.34';
+const DATABASE_NAME = "grocery_jpm.db";
+const RN_CODEBASE_VERSION = '1.0.1';
 
 const IOS_AD_APP_ID = 'ca-app-pub-7445712351150990~7705963653';
 const IOS_AD_BANNER = DEBUG ? 'ca-app-pub-3940256099942544/6300978111' : 'ca-app-pub-7445712351150990/5079800311';
@@ -15,16 +15,16 @@ const ANDROID_AD_FULLPAGE = DEBUG ? 'ca-app-pub-3940256099942544/1033173712' : '
 const ANDROID_AD_REWARD = DEBUG ? 'ca-app-pub-3940256099942544/5224354917' : 'ca-app-pub-7445712351150990/8444276355';
 
 
-const API_BASE_URL = "http://greentrac.dybydx.co/api_v1/";
+const API_BASE_URL = "http://grocery.dybydx.co/api_v1/";
 
-const APP_NAME = "Greentrac";
+const APP_NAME = "Grocery";
 
 const APP_LINK = "http://onelink.to/kidskbc";
 
-const IOS_BUNDLE_ID = "in.greentrac";
+const IOS_BUNDLE_ID = "jpm.grocery";
 
 const IOS_APP_ID = "1536091136";
-const ANDROID_PACKAGE_NAME = "com.greentracrn";
+const ANDROID_PACKAGE_NAME = "jpm.grocery";
 
 
 const IOS_RATE_URL = "https://itunes.apple.com/app/id" + IOS_APP_ID;

@@ -1,4 +1,4 @@
-package com.greentracrn;
+package jpm.grocery;
 
 import com.facebook.react.ReactActivity;
 

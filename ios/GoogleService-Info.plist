@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>693145415581-9rkg7o9c6alkhsjsddedsqomag946h10.apps.googleusercontent.com</string>
+	<string>747603452434-vdfareg0td0tcurcnsmdvgtu9na5shi5.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.693145415581-9rkg7o9c6alkhsjsddedsqomag946h10</string>
+	<string>com.googleusercontent.apps.747603452434-vdfareg0td0tcurcnsmdvgtu9na5shi5</string>
 	<key>API_KEY</key>
-	<string>AIzaSyA0V8CtccFkCNKi74ZD5RnsjQGQQbjbDkc</string>
+	<string>AIzaSyDDKY6cm0lZ6a-7tgfhBdhlfPkL0r_W1x0</string>
 	<key>GCM_SENDER_ID</key>
-	<string>693145415581</string>
+	<string>747603452434</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.greentracrn</string>
+	<string>jpm.grocery</string>
 	<key>PROJECT_ID</key>
-	<string>greentrac-38165</string>
+	<string>groceryskelton</string>
 	<key>STORAGE_BUCKET</key>
-	<string>greentrac-38165.appspot.com</string>
+	<string>groceryskelton.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,8 +29,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:693145415581:ios:a65127b23b533f70a64974</string>
+	<string>1:747603452434:ios:49f0059bce6e9200d06ecb</string>
 	<key>DATABASE_URL</key>
-	<string>https://greentrac-38165.firebaseio.com</string>
+	<string>https://groceryskelton.firebaseio.com</string>
 </dict>
 </plist>

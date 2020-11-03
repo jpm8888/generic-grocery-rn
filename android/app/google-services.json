@@ -1,35 +1,42 @@
 {
   "project_info": {
-    "project_number": "693145415581",
-    "firebase_url": "https://greentrac-38165.firebaseio.com",
-    "project_id": "greentrac-38165",
-    "storage_bucket": "greentrac-38165.appspot.com"
+    "project_number": "747603452434",
+    "firebase_url": "https://groceryskelton.firebaseio.com",
+    "project_id": "groceryskelton",
+    "storage_bucket": "groceryskelton.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:693145415581:android:3c2d91ab4d2490c9a64974",
+        "mobilesdk_app_id": "1:747603452434:android:5fddde3c02a031b6d06ecb",
         "android_client_info": {
-          "package_name": "com.greentracrn"
+          "package_name": "jpm.grocery"
         }
       },
       "oauth_client": [
         {
-          "client_id": "693145415581-onv5nboif5lupbqecnuf0hcm11uaoh11.apps.googleusercontent.com",
+          "client_id": "747603452434-vtf22go7q73es7r209r62elu8caurdor.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDBlBb6eX0qoUD8oatuuHzssiHA52zQXJs"
+          "current_key": "AIzaSyBmaXYQ9-lE3QBduC8a-2a1Iivz9KYKZKE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "693145415581-onv5nboif5lupbqecnuf0hcm11uaoh11.apps.googleusercontent.com",
+              "client_id": "747603452434-vtf22go7q73es7r209r62elu8caurdor.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "747603452434-vdfareg0td0tcurcnsmdvgtu9na5shi5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jpm.grocery"
+              }
             }
           ]
         }
